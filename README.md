@@ -15,12 +15,12 @@
 
 -  POST: /api/faqs/
 
--  ![image](https://github.com/user-attachments/assets/60da584c-60e1-4ea5-8e71-dca4f65a9347)
+   ![image](https://github.com/user-attachments/assets/60da584c-60e1-4ea5-8e71-dca4f65a9347)
 
 
 - GET:/api/faqs/?lang=od
 
-- ![image](https://github.com/user-attachments/assets/5cf533fe-08da-4f56-935d-acdd1c4c330f)
+ ![image](https://github.com/user-attachments/assets/5cf533fe-08da-4f56-935d-acdd1c4c330f)
 
 - ### Architecture:
 
