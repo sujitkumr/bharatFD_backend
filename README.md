@@ -1,4 +1,4 @@
-### FAQ Management System
+# FAQ Management System
 
 ## 📌 Project Overview
 - This is a simple FAQ Management System built using Node.js, Express.js, and MongoDB (Atlas). The application allows users to create and view FAQs with multilingual support, caching using Redis, and a WYSIWYG editor for content formatting.
